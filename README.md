@@ -88,3 +88,8 @@ To enable automatic deployments to Vercel, you need to:
 - Cheerio - HTML parsing and manipulation
 - Vanilla JavaScript for frontend functionality
 - Jest, Supertest, and Nock for testing
+
+## Preview Branch
+
+The `preview-branch` is used for testing and development purposes. It contains the latest changes and is used to verify that the application is working as expected.
+
